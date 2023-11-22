@@ -16,3 +16,6 @@
 ### Follow Me
 
 [![Telegram]( https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram)](https://t.me/Through_Time_And_Space)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foreveryourkris&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
