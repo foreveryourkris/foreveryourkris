@@ -13,4 +13,6 @@
 ![nodejs]( https://img.shields.io/badge/node-black?style=for-the-badge&logo=nodedotjs)
 
 
-Follow Me
+### Follow Me
+
+[![Telegram]( https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram)](https://t.me/Through_Time_And_Space)
